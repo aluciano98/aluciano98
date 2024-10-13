@@ -1,3 +1,8 @@
+# **BIENVENIDOS A MI PERFIL**
+
+## Sección 1 Un Poco Sobre Mí...
+
+ 
 - 👋 Hola, soy Agustín, estudiante de murciaeduca del ciclo formativo DAM 
 - 👀 Interesado en aprender markdown
 - 🌱 I’m currently learning ...
@@ -6,7 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-aluciano98/aluciano98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+...
+
+## Sección 2 
