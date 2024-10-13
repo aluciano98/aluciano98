@@ -1,8 +1,7 @@
-# **BIENVENIDOS A MI PERFIL**
+# BIENVENIDOS A MI PERFIL
 
 ## Sección 1 Un Poco Sobre Mí...
 
- 
 - 👋 Hola, soy Agustín, estudiante de murciaeduca del ciclo formativo DAM 
 - 👀 Interesado en aprender markdown
 - 🌱 I’m currently learning ...
